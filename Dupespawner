@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/RL5om6nLQdkdrmIa/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moshinyx-cmyk/Dupespawner/refs/heads/main/Dupespawner"))()
